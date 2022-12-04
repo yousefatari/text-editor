@@ -1,0 +1,17 @@
+E:\برمجه المرئيه\visual programming-async\text editor\text editor\bin\Debug\net6.0-windows\text editor.exe
+E:\برمجه المرئيه\visual programming-async\text editor\text editor\bin\Debug\net6.0-windows\text editor.deps.json
+E:\برمجه المرئيه\visual programming-async\text editor\text editor\bin\Debug\net6.0-windows\text editor.runtimeconfig.json
+E:\برمجه المرئيه\visual programming-async\text editor\text editor\bin\Debug\net6.0-windows\text editor.dll
+E:\برمجه المرئيه\visual programming-async\text editor\text editor\bin\Debug\net6.0-windows\text editor.pdb
+E:\برمجه المرئيه\visual programming-async\text editor\text editor\obj\Debug\net6.0-windows\text editor.csproj.AssemblyReference.cache
+E:\برمجه المرئيه\visual programming-async\text editor\text editor\obj\Debug\net6.0-windows\text_editor.Form1.resources
+E:\برمجه المرئيه\visual programming-async\text editor\text editor\obj\Debug\net6.0-windows\text editor.csproj.GenerateResource.cache
+E:\برمجه المرئيه\visual programming-async\text editor\text editor\obj\Debug\net6.0-windows\text editor.GeneratedMSBuildEditorConfig.editorconfig
+E:\برمجه المرئيه\visual programming-async\text editor\text editor\obj\Debug\net6.0-windows\text editor.AssemblyInfoInputs.cache
+E:\برمجه المرئيه\visual programming-async\text editor\text editor\obj\Debug\net6.0-windows\text editor.AssemblyInfo.cs
+E:\برمجه المرئيه\visual programming-async\text editor\text editor\obj\Debug\net6.0-windows\text editor.csproj.CoreCompileInputs.cache
+E:\برمجه المرئيه\visual programming-async\text editor\text editor\obj\Debug\net6.0-windows\text editor.dll
+E:\برمجه المرئيه\visual programming-async\text editor\text editor\obj\Debug\net6.0-windows\refint\text editor.dll
+E:\برمجه المرئيه\visual programming-async\text editor\text editor\obj\Debug\net6.0-windows\text editor.pdb
+E:\برمجه المرئيه\visual programming-async\text editor\text editor\obj\Debug\net6.0-windows\text editor.genruntimeconfig.cache
+E:\برمجه المرئيه\visual programming-async\text editor\text editor\obj\Debug\net6.0-windows\ref\text editor.dll
